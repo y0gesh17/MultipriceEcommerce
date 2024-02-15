@@ -53,7 +53,7 @@
     "tailwindcss": "^3.3.2"
   },
   "proxy": "http://localhost:3003",
-  "description": "https://shopwithzosh.vercel.app/",
+  "description": "",
   "main": "tailwind.config.js",
   "author": "",
   "license": "ISC"
